@@ -6,11 +6,12 @@
 
 ## Introduction / 介绍
 
+
 **English:**  
-This model is designed for extracting Chinese triples (subject-predicate-object) using a HippRAG approach. It is trained exclusively on Chinese corpora but can be extended to simulate other languages via the provided training code. Based on Qwen3-1.7B, it supports extension to other models in the Qwen series; compatibility with other model families remains untested. The model also handles recognition of formats such as Markdown (MD) and LaTeX.
+This model is designed for extracting Chinese HippRAG triples (subject-predicate-object). It is trained exclusively on Chinese corpora but can be extended to simulate other languages via the provided training code. Based on Qwen3-1.7B, it supports extension to other models in the Qwen series; compatibility with other model families remains untested. The model also handles recognition of formats such as Markdown (MD) and LaTeX.
 
 **中文：**  
-该模型专为提取中文三元组（主体-谓词-客体）而设计，采用HippRAG方法，仅使用中文语料进行训练，但可通过提供的训练代码扩展至模拟其他语言。基于Qwen3-1.7B，可扩展至Qwen系列的其他模型；与其他模型族的兼容性尚未验证。可支持Markdown（MD）、LaTeX等数据格式的识别。
+该模型专为提HippRAG取中文三元组（主体-谓词-客体），仅使用中文语料进行训练，但可通过提供的训练代码扩展至模拟其他语言。基于Qwen3-1.7B，可扩展至Qwen系列的其他模型；与其他模型族的兼容性尚未验证。可支持Markdown（MD）、LaTeX等数据格式的识别。
 
 ## Usage / 使用
 
